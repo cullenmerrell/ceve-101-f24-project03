@@ -3,7 +3,7 @@ title: "CEVE 101: Project 03"
 author: Cullen Merrell cgm11
 date: "2024-10-23"
 output: html_document
-engine: julia
+engine: julia # this is the new line
 code-annotations: hover
 format:
     html: default
@@ -161,4 +161,4 @@ println("Number of years with failures: ", sum(any_failures), " out of ", length
 1. We get all the years in order.
 2. We run the simulation for each year.
 3. We check if any failures occurred.
-4. We print the number of years with failures and the total number of years.
+4. We prt the number of years with failures and the total number of years.
