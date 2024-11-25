@@ -110,7 +110,7 @@ You will have the opportunity to change these values later.
 #| output: false
 param = ModelParameters(          # <1>
     runoff_coefficient=0.85,      # <2>
-    roof_area_m2=52.0,            # <3>
+    roof_area_m2=53.0,            # <3>
     first_flush_mm=2.0,           # <4>
     tank_capacity_L=16000.0       # <5>
 )
